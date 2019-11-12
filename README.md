@@ -1,3 +1,8 @@
-# Operating-Systems_ECSE 427
+Comp 310 Assignment 2 - Reader-Writer Problem
 
-This repository includes notes and assignments for the Operating Systems class ECSE 427 at McGill University.
+Running the program:
+
+This how I ran the program ; by typing the following commands in terminal after accessing the A2 folder:
+
+$ gcc -pthread A2Q1.c 
+$ ./a.out NUMBER_OF_WRITES NUMBER_OF_READS
